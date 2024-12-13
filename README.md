@@ -18,6 +18,3 @@ Features
 - Easy navigation and clear typography
 
 Feel free to use and modify the code as per your requirements.
-
-Contact
-If you have any questions or would like to get in touch, please visit my *Contact* page.
